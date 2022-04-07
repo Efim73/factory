@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    background: url(https://img1.goodfon.com/original/2560x1600/e/72/doroga-alleya-put-dorogi.jpg);
+}
+h1{
+    text-align: center;
+    font-family: 60px;  
+    text-shadow: 0 3px 6px rgba(0, 0, 0, 0.493);
+
+    margin: 50px 0;
+    color: white;
+}
+.container{
+    width: 50%;
+    border-radius: 20px;
+    margin: auto;
+    background-color: white;
+    display: block;
+    padding: 20px;
+}
+.question{
+    margin-bottom: 20px;
+}
+input{
+    height: 25px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: none;
+    border: 2px solid black;
+    padding: 0 20px;
+    box-sizing: border-box;
+
+}
+h2{
+    margin-bottom: 10px;
+}
+.calc{
+    padding: 4px 10px;
+    border: 1px solid black;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.548);
+    color: black;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 15px;
+    width: 103px;
+    text-align: center;
+
+}.newCalc{
+    padding: 4px 10px;
+    border: 1px solid black;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.548);
+    color: black;
+    text-decoration: none;
+    text-align: center;
+
+}
